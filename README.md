@@ -21,4 +21,4 @@
 可自定义修改/添加的聊天记录时间！
 
 邮箱联系:modifywx@proton.me
-whtae@protonmail.com
+    whtae@protonmail.com
